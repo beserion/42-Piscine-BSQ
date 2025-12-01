@@ -124,8 +124,3 @@ cat map.txt | ./bsq
 This project is part of the **42 Piscine**, focusing on algorithmic thinking and optimized data processing. The solution must be **efficient**, **clean**, and **robust**.
 
 ---
-
-If you want, I can also generate:
-✅ Özel bir logo banner
-✅ Daha profesyonel bir README tasarımı
-✅ Badge’ler (C language, 42, Norminette, build status)
