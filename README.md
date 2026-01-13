@@ -126,3 +126,4 @@ This project is part of the **42 Piscine**, focusing on algorithmic thinking and
 ---
 
 - minor update @ 2026-01-13 03:39:02.797316
+- minor update @ 2026-01-13 03:39:12.053075
