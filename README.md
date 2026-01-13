@@ -124,3 +124,5 @@ cat map.txt | ./bsq
 This project is part of the **42 Piscine**, focusing on algorithmic thinking and optimized data processing. The solution must be **efficient**, **clean**, and **robust**.
 
 ---
+
+- minor update @ 2026-01-13 03:39:02.797316
